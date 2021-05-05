@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ofsfabo1\\source\\repos\\Log4net_Wrapper\\Log4net_Wrapper\\Log4net_Wrapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ofsfabo1\\source\\repos\\Log4net_Wrapper\\Log4net_Wrapper\\Log4net_Wrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ofsfabo1\\source\\repos\\Log4net_Wrapper\\Log4net_Wrapper\\Log4net_Wrapper.csproj",
+        "projectName": "Log4net_Wrapper",
+        "projectPath": "C:\\Users\\ofsfabo1\\source\\repos\\Log4net_Wrapper\\Log4net_Wrapper\\Log4net_Wrapper.csproj",
+        "packagesPath": "C:\\Users\\ofsfabo1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ofsfabo1\\source\\repos\\Log4net_Wrapper\\Log4net_Wrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ofsfabo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AibelStructural/_packaging/AibelStructural/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

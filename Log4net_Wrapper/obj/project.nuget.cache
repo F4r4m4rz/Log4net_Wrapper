@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uU3Kf8eVSEJu+YZdtYpICw1x2tl4f3atLVuiSpmWCSWJfAGc76m9ex23rkshccUoFpPgVto+xD5FES3np+9LoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ofsfabo1\\source\\repos\\Log4net_Wrapper\\Log4net_Wrapper\\Log4net_Wrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ofsfabo1\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

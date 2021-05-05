@@ -1,0 +1,9 @@
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\bin\Debug\Ai.Gene.Logging.dll.config
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\bin\Debug\Ai.Gene.Logging.dll
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\bin\Debug\Ai.Gene.Logging.pdb
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\bin\Debug\log4net.dll
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\obj\Debug\Log4net_Wrapper.csprojAssemblyReference.cache
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\obj\Debug\Log4net_Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\obj\Debug\Log4net_Wrapper.csproj.CopyComplete
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\obj\Debug\Ai.Gene.Logging.dll
+C:\Users\ofsfabo1\source\repos\Log4net_Wrapper\Log4net_Wrapper\obj\Debug\Ai.Gene.Logging.pdb
